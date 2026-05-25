@@ -114,6 +114,7 @@ SpecFlow makes test automation easier by turning it into a team effort and allow
 - [RestQA](https://github.com/restqa/restqa) - All-in-one API test automation framework with a great developer experience. Based on Cucumber.
 - [Yadda](https://github.com/acuminous/yadda) -  A BDD javascript library.
 - [Playwright-BDD](https://github.com/vitalets/playwright-bdd) - A library to run BDD tests with Playwright runner.
+- * [@vijaypjavvadi/bdd2pw](https://www.npmjs.com/package/@vijaypjavvadi/bdd2pw) - Scaffolds runnable Playwright TypeScript tests     from Gherkin `.feature` files. Auto-detects existing Page Objects, optionally scans live pages via Microsoft Playwright MCP, and    emits POMs and specs ready for execution. Available as CLI and HTTP service.
 
 ### Objective-C
 - [Specta](https://github.com/specta/specta) - A light-weight TDD / BDD framework for Objective-C.
